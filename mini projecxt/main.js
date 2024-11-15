@@ -1,5 +1,5 @@
 // intial test
-console.log('i am js file');
+console.log('i am not js file');
 
 // code for redirection from 
 // login to cards page
